@@ -9,7 +9,7 @@ export const ASSET_TYPES = [
 export const LIFECYCLE_HOOKS = [
   'beforeCreate',
   'created',
-  'beforeMount',
+  'beforeUnmount',
   'mounted',
   'beforeUpdate',
   'updated',
